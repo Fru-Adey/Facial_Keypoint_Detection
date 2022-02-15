@@ -19,6 +19,7 @@ face recognition, etc.
 - Maxpooling layers
 - Fully-connected layers
 in model.py file
+
 Then We detect the face using Haar Cascade classifier after detecting frontial faces we pass these detected faces to trained model
 
 ##  How to Use 
